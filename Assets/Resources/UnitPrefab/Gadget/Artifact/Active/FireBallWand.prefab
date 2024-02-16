@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4593667451977694102
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4915191841394736581}
+  - component: {fileID: -7443599029144954155}
+  - component: {fileID: -6809962265437859047}
+  - component: {fileID: -4469778694626968681}
+  - component: {fileID: 787101341459729261}
+  - component: {fileID: -5231351848565168933}
+  m_Layer: 0
+  m_Name: FireBallWand
+  m_TagString: Gadget
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4915191841394736581
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-7443599029144954155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63eba21b7a25ba745b8ac39df0f176bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  effectData: []
+  prefabName: 
+  curLevel: 0
+  maxLevel: 0
+  moveDir: {x: 0, y: 0, z: 0}
+  levelDatatSheet: {fileID: 11400000, guid: bde4144e036db8c4b966ae1fd86efc34, type: 2}
+--- !u!114 &-6809962265437859047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a44fdbbb02def6146818c12a9be2e9d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 1
+  soundDatas:
+  - notifyTag: OnFire
+    soundName: FireballFire
+  EffectData: []
+  projecctilePrefab: {fileID: 2534423970387751064, guid: 4f654a19378f0d941a62b1ed507f53c5, type: 3}
+  spawnRange: 0
+  spawnCycle: 0
+  burstCnt: 1
+  burstDelay: 0.1
+--- !u!114 &-4469778694626968681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bdf5c234c34e9a429f408cc9a80b424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  soundDatas: []
+  EffectData:
+  - notifyTag: OnCrash
+    effectPrefab: {fileID: 1549373087677006, guid: e03e50b8a5c580e40a3a7c28c2d1675f, type: 3}
+    lifeTime: 5
+  impactDamage: 0
+  penetrationCnt: 1
+--- !u!114 &787101341459729261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acea1c47294a9c64da73219073db2815, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  soundDatas:
+  - notifyTag: OnCrash
+    soundName: FirebalExplosion
+  EffectData:
+  - notifyTag: OnCrash
+    effectPrefab: {fileID: 1549373087677006, guid: 2b79ec10654f26344816627d7515c1df, type: 3}
+    lifeTime: 5
+  impactDamage: 1
+  explosionRange: 5
+--- !u!114 &-5231351848565168933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85a262fc4f87009438bd6ce2145d09fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  soundDatas: []
+  moveSpeed: 0

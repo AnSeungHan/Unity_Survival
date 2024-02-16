@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4593667451977694102
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4915191841394736581}
+  - component: {fileID: -7443599029144954155}
+  - component: {fileID: 2124006766052060073}
+  - component: {fileID: -476174441888426177}
+  - component: {fileID: -4861776407291954805}
+  m_Layer: 0
+  m_Name: DefenceShield
+  m_TagString: Gadget
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4915191841394736581
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-7443599029144954155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63eba21b7a25ba745b8ac39df0f176bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  effectData: []
+  prefabName: 
+  curLevel: 0
+  maxLevel: 0
+  moveDir: {x: 0, y: 0, z: 0}
+  levelDatatSheet: {fileID: 11400000, guid: a7bf6c68868ead345a1270da110b0c90, type: 2}
+--- !u!114 &2124006766052060073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d92d66b602d926d42939bfd7448cab98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  soundDatas:
+  - notifyTag: OnCrash
+    soundName: Blood
+  EffectData: []
+  impactDamage: 3
+--- !u!114 &-476174441888426177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 380fca824e101d54fa60286303fe34aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  soundDatas: []
+  moveSpeed: 200
+--- !u!114 &-4861776407291954805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a11c7da21b9eed74d8f61c1a248773c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 1
+  soundDatas: []
+  EffectData: []
+  projecctilePrefab: {fileID: 2534423970387751064, guid: 060967e8e7580604b839bceb3f0d6886, type: 3}
+  spawnRange: 0
+  spawnCycle: 2
+  burstCnt: 6
+  offsetDistance: 3
+  stayTime: 1.2

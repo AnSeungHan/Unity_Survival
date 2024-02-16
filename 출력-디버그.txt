@@ -1,0 +1,120 @@
+﻿Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\mscorlib.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\mscorlib.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AndroidJNIModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.DSPGraphModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.GIModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputLegacyModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.LocalizationModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ProfilerModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.StreamingModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubsystemsModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextCoreModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsNativeModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UNETModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityCurlModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityTestProtocolModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.VFXModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.CoreModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.GraphViewModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.PackageManagerUIModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.SceneTemplateModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsSamplesModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIServiceModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Core.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Configuration.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Xml.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\UnityEditor.Graphs.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll
+Loaded: 모듈: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.Timeline.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\UnityEditor.UI.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.InputSystem.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\UnityEngine.UI.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\PackageCache\com.unity.collab-proxy@1.15.18\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\PackageCache\com.unity.collab-proxy@1.15.18\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\PackageCache\com.unity.collab-proxy@1.15.18\Lib\Editor\PlasticSCM\unityplastic.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\PackageCache\com.unity.collab-proxy@1.15.18\Lib\Editor\PlasticSCM\log4netPlastic.dll
+Loaded: 모듈: H:\1. Develop\0. save\( 1.2.1 ) Unity\3D Test Game\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Data.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Mono.Posix.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Net.Http.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Drawing.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Windows.Forms.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Xml.Linq.dll
+Loaded: 모듈: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\netstandard.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\ExCSS.Unity.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\Unity.Cecil.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\Managed\Unity.CompilationPipeline.Common.dll
+Loaded: 모듈: C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Mono.Security.dll
+0xb5a6850 스레드가 종료되었습니다(코드: 0 (0x0)).
+0xb079ab0 스레드가 종료되었습니다(코드: 0 (0x0)).
+'Unity' 프로그램이 종료되었습니다(코드: 0 (0x0)).

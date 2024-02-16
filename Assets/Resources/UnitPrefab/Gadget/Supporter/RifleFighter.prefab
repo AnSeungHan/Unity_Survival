@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7148032949095887902
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7148032949095887898}
+  - component: {fileID: 4893906181184492610}
+  - component: {fileID: -3517406794151287713}
+  - component: {fileID: 35800092382899043}
+  - component: {fileID: -5240101929639041339}
+  m_Layer: 0
+  m_Name: RifleFighter
+  m_TagString: Ground
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7148032949095887898
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7148032949095887902}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4893906181184492610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7148032949095887902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53d0a442284a5c249ae2f6664e6ead2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  effectData: []
+  prefabName: 
+  curLevel: 0
+  maxLevel: 0
+  moveDir: {x: 0, y: 0, z: 0}
+  levelDatatSheet: {fileID: 11400000, guid: 9cd0cec51bbe37c4bb38a04637531bc2, type: 2}
+  servantPrefab: {fileID: 1838178841502673717, guid: e63666cee2ab1104e9a41701da6f27ea, type: 3}
+  maxUnitCount: 0
+--- !u!114 &-3517406794151287713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7148032949095887902}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bdf5c234c34e9a429f408cc9a80b424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  soundDatas: []
+  EffectData: []
+  impactDamage: 3
+  penetrationCnt: 1
+--- !u!114 &35800092382899043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7148032949095887902}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 380fca824e101d54fa60286303fe34aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  soundDatas: []
+  moveSpeed: 45
+--- !u!114 &-5240101929639041339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7148032949095887902}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce39e36c5020538428024c3a55188d17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  soundDatas:
+  - notifyTag: OnFire
+    soundName: FireBullet
+  EffectData:
+  - notifyTag: OnFire
+    effectPrefab: {fileID: 3192738186328473697, guid: d1ca4c9ca51f40d4e814c0feeb65625e, type: 3}
+    lifeTime: 0.1
+  projecctilePrefab: {fileID: 2534423970387751064, guid: 358625d394137db4f99ea259a0547c28, type: 3}
+  spawnRange: 15
+  spawnCycle: 1
+  burstCnt: 5
+  burstDelay: 0.2

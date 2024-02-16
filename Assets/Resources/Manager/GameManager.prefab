@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5043642180801821577
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2225562269609317406}
+  - component: {fileID: 626693994735425138}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2225562269609317406
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5043642180801821577}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &626693994735425138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5043642180801821577}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84bcda5fd39176e4db95c075db685565, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDontDestroy: 1
+  isNoLevelUpMode: 1
+  isNoDeathMode: 0
+  player: {fileID: 0}
+  playerFollowCamera: {fileID: 0}
+  enemyCleaner: {fileID: 0}
+  gadgetList:
+  - {fileID: -7443599029144954155, guid: a1ddb3cbebd931d45b521de3a8b7e51b, type: 3}
+  - {fileID: -7443599029144954155, guid: 484dfbb93ee4fd34ca67883f51f970c0, type: 3}
+  - {fileID: -7443599029144954155, guid: ea70ca52627d4304ab515a1812e591ca, type: 3}
+  - {fileID: -7443599029144954155, guid: 1d6c108a0f6546f41a31263d4612716c, type: 3}
+  - {fileID: -7443599029144954155, guid: 0708f43ee290dc043af6e5fe3312da09, type: 3}
+  - {fileID: 4893906181184492610, guid: ec6f5528511af0843ba6d9eba3896027, type: 3}
+  - {fileID: -7443599029144954155, guid: f1e66319aef17134e9ba06d2ace09fad, type: 3}
+  - {fileID: -7443599029144954155, guid: 0059836800064fe43bdf2f9223fb7dd2, type: 3}
+  - {fileID: -7443599029144954155, guid: 8f7613cb5268fa24f82f8a482e10bdba, type: 3}
+  lastItemList: []
+  maxGameTime: 240

@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4593667451977694102
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4915191841394736581}
+  - component: {fileID: -7443599029144954155}
+  - component: {fileID: -6809962265437859047}
+  - component: {fileID: -4469778694626968681}
+  - component: {fileID: 2054848047541541574}
+  - component: {fileID: -5231351848565168933}
+  m_Layer: 0
+  m_Name: RocketLauncher
+  m_TagString: Gadget
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4915191841394736581
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-7443599029144954155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63eba21b7a25ba745b8ac39df0f176bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  effectData: []
+  prefabName: 
+  curLevel: 0
+  maxLevel: 0
+  moveDir: {x: 0, y: 0, z: 0}
+  levelDatatSheet: {fileID: 11400000, guid: bde4144e036db8c4b966ae1fd86efc34, type: 2}
+--- !u!114 &-6809962265437859047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a44fdbbb02def6146818c12a9be2e9d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 1
+  EffectData: []
+  projecctilePrefab: {fileID: 2534423970387751064, guid: 060967e8e7580604b839bceb3f0d6886, type: 3}
+  spawnRange: 0
+  spawnCycle: 0
+  burstCnt: 1
+  burstDelay: 0.1
+--- !u!114 &-4469778694626968681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bdf5c234c34e9a429f408cc9a80b424, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  EffectData: []
+  impactDamage: 0
+  penetrationCnt: 5
+--- !u!114 &2054848047541541574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4d7a4ca62c61b4f9fc39efea56b8a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  EffectData:
+  - notifyTag: OnCrash
+    effectPrefab: {fileID: 1804206099813350, guid: 02953380707d6f44882922d0173796be, type: 3}
+    lifeTime: 5
+  impactDamage: 0
+  bounceRange: 5
+  mode: 0
+--- !u!114 &-5231351848565168933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593667451977694102}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85a262fc4f87009438bd6ce2145d09fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isActivate: 0
+  moveSpeed: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 362f44da668387a419f7b6a3d9bb7843, type: 3}
+  m_Name: DB_CastingBook
+  m_EditorClassIdentifier: 
+  UITexture: {fileID: 21300000, guid: a2fab0a06dae8c9419070b859dd0abfb, type: 3}
+  data:
+  - DataInfo:
+    - strategyName: SPsv_CoolDown
+      valueName: coolDown
+      value: 0.5
+  - DataInfo:
+    - strategyName: SPsv_CoolDown
+      valueName: coolDown
+      value: 0.5
+    - strategyName: SPsv_CoolDown
+      valueName: coolDown
+      value: 0.7
